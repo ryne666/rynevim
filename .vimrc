@@ -1,6 +1,8 @@
+"显示行号
 set nu
 
-
+"vim-plug
+"---------------------------------------------------------
 " Specify a directory for plugins
 " - For Neovim: stdpath('data') . '/plugged'
 " - Avoid using standard Vim directory names like 'plugin'
